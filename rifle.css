@@ -5,12 +5,34 @@ body
 		margin-left: 10%;
 		background-image: url("images/mainbackground.jpg");
 	}
-iframe
-	{
-		height: 1000px;
-		width: 90%;
-	}
 h1
 	{
 		color:white;
 	}
+#header {
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding:5px;
+}
+
+#footer {
+	background-color: black;
+	color:white;
+	clear:both;
+	text-align: center;
+	padding: 5px;
+}
+#links {
+	line-height:30px;
+    background-color:black;
+    height:400px;
+    width:100px;
+    float:left;
+    padding:5px
+}
+#section {
+	width:550px;
+    float:left;
+    padding:10px; 
+}
