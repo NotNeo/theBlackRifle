@@ -5,7 +5,7 @@ body
 		margin-left: 10%;
 		background-image: url("images/mainbackground.jpg");
 	}
-h1
+h3
 	{
 		color:white;
 	}
@@ -13,7 +13,7 @@ h1
 	background-color: black;
 	color: white;
 	text-align: center;
-	padding:5px;
+	padding:10px;
 }
 
 #footer {
@@ -21,18 +21,45 @@ h1
 	color:white;
 	clear:both;
 	text-align: center;
-	padding: 5px;
+	padding: 50px;
 }
 #links {
 	line-height:30px;
+	text-align: left;
     background-color:black;
-    height:400px;
-    width:100px;
-    float:left;
-    padding:5px
+    height: 430px;
+    width: 75px;
+    float: left;
+    padding: 10px;
 }
 #section {
-	width:550px;
-    float:left;
-    padding:10px; 
+	outline-width: 150px;
+	background-color: black;
+	height: 400px;
+	width: 1460px;
+    float: center;
+}
+#right-boarder {
+	line-height:30px;
+	background-color: black;
+	height: 450px;
+	width: 30px;
+	float: right;
+	padding: 0px;
+}
+#history-links {
+	line-height: 30px;
+	text-align: left;
+	background-color: black;
+	height: 1001px;
+	width: 75px;
+	float: left;
+	padding: 10px;
+}
+#history-section {
+	outline-width: 150px;
+	width: 1381px;
+	background-color: black;
+	height: 1000px;
+    float: left;
 }
