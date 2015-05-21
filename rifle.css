@@ -63,3 +63,16 @@ h3
 	height: 1000px;
     float: left;
 }
+#parts-section {
+	text-align: left;
+	width: 1410px;
+	background-color: black;
+	height: 700px;
+    float: center;
+}
+#right-boarder-parts {
+	background-color: black;
+	height: 720px;
+	width: 80px;
+	float: right;
+}
