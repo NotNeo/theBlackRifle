@@ -5,6 +5,9 @@ body
 		margin-left: 10%;
 		background-image: url("images/mainbackground.jpg");
 	}
+h2 {
+		color: white;
+}
 h3
 	{
 		color:white;
@@ -74,5 +77,23 @@ h3
 	background-color: black;
 	height: 720px;
 	width: 80px;
+	float: right;
+}
+#legal-section {
+	background-color: black;
+	width: 1381px;
+	height: 700px;
+	float: center;
+}
+#legal-links {
+	background-color: black;
+	height: 705px;
+	width: 75px;
+	float: left;
+}
+#legal-right-boarder {
+	background-color: black;
+	height: 720px;
+	width: 110px;
 	float: right;
 }
