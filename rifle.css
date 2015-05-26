@@ -1,99 +1,35 @@
-body
-	{
-		color:#D9AC7D;
-		margin-right: 10%;
-		margin-left: 10%;
-		background-image: url("images/mainbackground.jpg");
-	}
-h2 {
-		color: white;
-}
-h3
-	{
-		color:white;
-	}
 #header {
-	background-color: black;
-	color: white;
-	text-align: center;
-	padding:10px;
+	background-color: #000000;
+	height: 75px;
+	color: #D2B48C;
+
 }
 
 #footer {
-	background-color: black;
-	color:white;
-	clear:both;
 	text-align: center;
-	padding: 50px;
-}
-#links {
-	line-height:30px;
-	text-align: left;
-    background-color:black;
-    height: 430px;
-    width: 75px;
-    float: left;
-    padding: 10px;
-}
-#section {
-	outline-width: 150px;
-	background-color: black;
-	height: 400px;
-	width: 1460px;
-    float: center;
-}
-#right-boarder {
-	line-height:30px;
-	background-color: black;
-	height: 450px;
-	width: 30px;
-	float: right;
+	background-color: #000000;
+	height: 75px;
+	color: #D9411E;
+	margin-top: -20px;
 	padding: 0px;
+	border: 0px;
 }
-#history-links {
-	line-height: 30px;
+
+#body {
 	text-align: left;
-	background-color: black;
-	height: 1001px;
-	width: 75px;
-	float: left;
-	padding: 10px;
+	background-color: #D2B48C;
+	margin: 0px;
+	padding: 0px;
+	margin-top: -20px;
 }
-#history-section {
-	outline-width: 150px;
-	width: 1381px;
-	background-color: black;
-	height: 1000px;
-    float: left;
+
+body {
+	background-color: #333333;
+	margin: 0px; 
+	padding: 0px;
+	margin-top: -20px;
 }
-#parts-section {
-	text-align: left;
-	width: 1410px;
-	background-color: black;
-	height: 700px;
-    float: center;
-}
-#right-boarder-parts {
-	background-color: black;
-	height: 720px;
-	width: 80px;
-	float: right;
-}
-#legal-section {
-	background-color: black;
-	width: 1381px;
-	height: 700px;
-	float: center;
-}
-#legal-links {
-	background-color: black;
-	height: 705px;
-	width: 75px;
-	float: left;
-}
-#legal-right-boarder {
-	background-color: black;
-	height: 720px;
-	width: 110px;
-	float: right;
+
+h3 {
+	color: #333333;
 }
