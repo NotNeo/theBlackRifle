@@ -13,6 +13,8 @@
 	margin-top: -20px;
 	padding: 0px;
 	border: 0px;
+	position: absolute; /*added this to make the footer float on larger pictures*/
+	width: 100%;
 }
 
 #body {
@@ -32,4 +34,11 @@ body {
 
 h3 {
 	color: #333333;
+}
+
+#body h3{
+	text-align: center;
+}
+#body img {
+	position: center;
 }
