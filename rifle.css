@@ -39,6 +39,10 @@ h3 {
 #body h3{
 	text-align: center;
 }
-#body img {
-	position: center;
+
+.centeredPicture {
+    text-align:center;
+    margin-top:0px;
+    margin-bottom:0px;
+    padding:0px;
 }
