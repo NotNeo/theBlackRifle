@@ -1,0 +1,278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"form",
+				"FORM	Tag"
+			],
+			[
+				"elevation",
+				"elevationYes"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"el",
+				"elevationFunction"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tools.html",
+			"settings":
+			{
+				"buffer_size": 3774,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "birthOfTheAR.html",
+			"settings":
+			{
+				"buffer_size": 5743,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jimbo/Desktop/theBlackRifle/arSite.sublime-project",
+		"/home/jimbo/Desktop/theBlackRifle/partsOfTheAR.html",
+		"/home/jimbo/Desktop/theBlackRifle/rifle.css",
+		"/home/jimbo/Desktop/theBlackRifle/birthOfTheAR.html",
+		"/home/jimbo/Desktop/theBlackRifle/legal.html",
+		"/home/jimbo/Desktop/theBlackRifle/index.html",
+		"/home/jimbo/Desktop/theBlackRifle/tools.html",
+		"/home/jimbo/Desktop/htmlFrameWork.html",
+		"/home/jimbo/todo/www/index.html",
+		"/home/jimbo/Dropbox/CPT220/trident_tennis/facilities.html",
+		"/home/jimbo/Dropbox/CPT220/trident_tennis/index.html",
+		"/home/jimbo/Desktop/arSiteProject/rifle.css",
+		"/home/jimbo/Desktop/arSiteProject/legal.html",
+		"/home/jimbo/Desktop/arSiteProject/partsOfTheAR.html",
+		"/home/jimbo/Desktop/arSiteProject/birthOfTheAR.html",
+		"/home/jimbo/Desktop/arSiteProject/index.html",
+		"/home/jimbo/7-Crimes/main/main.html",
+		"/home/jimbo/7-Crimes/main/main-style.css",
+		"/home/jimbo/7-Crimes/main/main-scripts.js",
+		"/home/jimbo/7-Crimes/index/index.html",
+		"/home/jimbo/7-Crimes/main/jquery-2.1.1.min.js",
+		"/home/jimbo/Desktop/arSiteProject/directoryOfRanges.html",
+		"/home/jimbo/Desktop/arSiteProject/links.html",
+		"/home/jimbo/Desktop/arSiteProject/birthOfTheAR15",
+		"/home/jimbo/Dropbox/CPT220/trident_tennis/tennis.css",
+		"/home/jimbo/Downloads/sublime/css/animate.css",
+		"/home/jimbo/Dropbox/CPT220/htmlFrameWork.html",
+		"/home/jimbo/Documents/HTML Book/first-test.html",
+		"/home/jimbo/7-Crimes/index/index-scripts.js",
+		"/home/jimbo/7-Crimes/index/index.html.gdoc",
+		"/home/jimbo/Dropbox/Personal Projects/stemi4.html",
+		"/home/jimbo/Dropbox/Personal Projects/stemi3.html",
+		"/home/jimbo/Dropbox/Personal Projects/STEMI.html",
+		"/home/jimbo/Dropbox/Personal Projects/newMI.html",
+		"/home/jimbo/Dropbox/Personal Projects/stemi2.html",
+		"/home/jimbo/Dropbox/Personal Projects/mi.html",
+		"/home/jimbo/Dropbox/Seven Crimes/main-style.css",
+		"/home/jimbo/Dropbox/Seven Crimes/index",
+		"/home/jimbo/Dropbox/CPT220/Sour Dog/index.html",
+		"/home/jimbo/Dropbox/CPT220/Sour Dog/aboutus.html",
+		"/home/jimbo/Documents/SevenCrimesSite/index/index-style.css",
+		"/home/jimbo/Documents/SevenCrimesSite/index/index-scripts.js",
+		"/home/jimbo/Documents/SevenCrimesSite/main/main.html",
+		"/home/jimbo/Documents/SevenCrimesSite/index/index.html",
+		"/home/jimbo/Desktop/untitled.html",
+		"/home/jimbo/Desktop/contentassignment.html",
+		"/home/jimbo/Dropbox/CPT220/trident_tennis/resources.html",
+		"/home/jimbo/Dropbox/CPT220/trident_tennis/tennis_content.txt",
+		"/home/jimbo/Dropbox/CPT220/trident_tennis/schedule.html",
+		"/home/jimbo/Dropbox/CPT220/trident_tennis/policies.html",
+		"/home/jimbo/Dropbox/CPT220/trident_tennis/mission.html",
+		"/home/jimbo/Dropbox/CPT220/trident_tennis/membership.html",
+		"/home/jimbo/Dropbox/CPT220/trident_tennis/academy_program.html",
+		"/home/jimbo/Dropbox/ACLS/index.html",
+		"/home/jimbo/Dropbox/CPT220/trident_tennis/academyprogram.html",
+		"/home/jimbo/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"100px",
+			"	<",
+			"Rub"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tools.html",
+					"settings":
+					{
+						"buffer_size": 3774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								912,
+								912
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "birthOfTheAR.html",
+					"settings":
+					{
+						"buffer_size": 5743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 357.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
