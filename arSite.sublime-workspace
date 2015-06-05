@@ -27,7 +27,7 @@
 			"file": "tools.html",
 			"settings":
 			{
-				"buffer_size": 3774,
+				"buffer_size": 3934,
 				"line_ending": "Unix"
 			}
 		},
@@ -165,15 +165,15 @@
 					"file": "tools.html",
 					"settings":
 					{
-						"buffer_size": 3774,
+						"buffer_size": 3934,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								912,
-								912
+								3801,
+								3801
 							]
 						],
 						"settings":
@@ -182,7 +182,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 649.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
