@@ -27,7 +27,7 @@
 			"file": "tools.html",
 			"settings":
 			{
-				"buffer_size": 3934,
+				"buffer_size": 4104,
 				"line_ending": "Unix"
 			}
 		},
@@ -165,15 +165,15 @@
 					"file": "tools.html",
 					"settings":
 					{
-						"buffer_size": 3934,
+						"buffer_size": 4104,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3801,
-								3801
+								2493,
+								2493
 							]
 						],
 						"settings":
