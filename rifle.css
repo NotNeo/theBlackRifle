@@ -13,7 +13,8 @@
 	margin-top: -20px;
 	padding: 0px;
 	border: 0px;
-	position: absolute; /*added this to make the footer float on larger pictures*/
+	position: fixed;
+	bottom: 0; /*added this to make the footer float on larger pictures*/
 	width: 100%;
 }
 
