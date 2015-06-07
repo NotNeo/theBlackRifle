@@ -23,22 +23,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "tools.html",
-			"settings":
-			{
-				"buffer_size": 4104,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "birthOfTheAR.html",
-			"settings":
-			{
-				"buffer_size": 5743,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -51,7 +35,7 @@
 	},
 	"console":
 	{
-		"height": 0.0
+		"height": 139.0
 	},
 	"distraction_free":
 	{
@@ -64,13 +48,13 @@
 	},
 	"file_history":
 	[
-		"/home/jimbo/Desktop/theBlackRifle/arSite.sublime-project",
-		"/home/jimbo/Desktop/theBlackRifle/partsOfTheAR.html",
 		"/home/jimbo/Desktop/theBlackRifle/rifle.css",
-		"/home/jimbo/Desktop/theBlackRifle/birthOfTheAR.html",
-		"/home/jimbo/Desktop/theBlackRifle/legal.html",
 		"/home/jimbo/Desktop/theBlackRifle/index.html",
+		"/home/jimbo/Desktop/theBlackRifle/arSite.sublime-project",
 		"/home/jimbo/Desktop/theBlackRifle/tools.html",
+		"/home/jimbo/Desktop/theBlackRifle/birthOfTheAR.html",
+		"/home/jimbo/Desktop/theBlackRifle/partsOfTheAR.html",
+		"/home/jimbo/Desktop/theBlackRifle/legal.html",
 		"/home/jimbo/Desktop/htmlFrameWork.html",
 		"/home/jimbo/todo/www/index.html",
 		"/home/jimbo/Dropbox/CPT220/trident_tennis/facilities.html",
@@ -157,63 +141,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "tools.html",
-					"settings":
-					{
-						"buffer_size": 4104,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2493,
-								2493
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 649.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "birthOfTheAR.html",
-					"settings":
-					{
-						"buffer_size": 5743,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 357.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -270,7 +199,7 @@
 		"width": 0.0
 	},
 	"show_minimap": true,
-	"show_open_files": false,
+	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 150.0,
